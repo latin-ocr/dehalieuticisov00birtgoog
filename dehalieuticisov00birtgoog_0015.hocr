@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./dehalieuticisov00birtgoog_0015.png"; bbox 0 0 2902 5040; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 333 1538 1066 1660">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 333 1538 1066 1660">
+     <span class='ocr_line' id='line_1_1' title="bbox 333 1538 1066 1660; baseline 0.001 -4"><span class='ocrx_word' id='word_1_1' title='bbox 333 1538 648 1660; x_wconf 78' lang='lat' dir='ltr'><strong>FRANOISOO</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 692 1538 1066 1660; x_wconf 79' lang='lat' dir='ltr'>BUEOHELERO</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 429 1890 968 1960">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 429 1890 968 1960">
+     <span class='ocr_line' id='line_1_2' title="bbox 429 1890 968 1960; baseline 0 -12"><span class='ocrx_word' id='word_1_3' title='bbox 429 1891 685 1951; x_wconf 83' lang='lat' dir='ltr'><strong>LITTERARUM</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 705 1890 968 1960; x_wconf 80' lang='lat' dir='ltr'><strong>ANTIQUARUM</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 229 2146 1169 2225">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 229 2146 1169 2225">
+     <span class='ocr_line' id='line_1_3' title="bbox 229 2146 1169 2225; baseline 0 -1"><span class='ocrx_word' id='word_1_5' title='bbox 229 2148 365 2225; x_wconf 77' lang='lat' dir='ltr'>IUDICI</span> <span class='ocrx_word' id='word_1_6' title='bbox 391 2148 538 2224; x_wconf 85' lang='lat' dir='ltr'><strong>SUMMO</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 565 2146 850 2224; x_wconf 80' lang='lat' dir='ltr'><strong>PRAEGEPTORI</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 876 2147 1169 2224; x_wconf 84' lang='lat' dir='ltr'><strong>HUMANISSIMO</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 526 2478 1030 2576">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 526 2478 1030 2576">
+     <span class='ocr_line' id='line_1_4' title="bbox 526 2478 1030 2576; baseline -0.002 -1"><span class='ocrx_word' id='word_1_9' title='bbox 526 2520 721 2575; x_wconf 77' lang='lat' dir='ltr'><strong>CARITATls</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 741 2520 867 2576; x_wconf 80' lang='lat' dir='ltr'>CAUSA.</span> <span class='ocrx_word' id='word_1_11' title='bbox 1026 2478 1030 2489; x_wconf 49' lang='lat'>¹</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 1456 5040">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 1456 5040">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1456 5040; baseline 0 0"><span class='ocrx_word' id='word_1_12' title='bbox 0 0 1456 5040; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
